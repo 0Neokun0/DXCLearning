@@ -1,3 +1,4 @@
+package Java_Basics;
 // 出力の種類
 public class OutputTypes {
     public static void main(String args[]) {
