@@ -1,4 +1,4 @@
-package Java_Basics;
+package Java_Flow_Control;
 public class if_statements {
     public static void main(String[] args) {
         // if Statement
