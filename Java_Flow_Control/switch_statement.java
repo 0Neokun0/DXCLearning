@@ -1,5 +1,3 @@
-package Java_Flow_Control;
-
 public class switch_statement {
     public static void main(String[] args) {
         int number = 29;
