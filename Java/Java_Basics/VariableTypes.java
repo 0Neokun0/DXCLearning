@@ -1,4 +1,4 @@
-package Java_Basics;
+package Java.Java_Basics;
 public class VariableTypes {
     public static void main(String args[]) {
         // 数字の変数
