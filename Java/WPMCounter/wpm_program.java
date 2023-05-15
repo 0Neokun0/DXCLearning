@@ -9,7 +9,7 @@ public class wpm_program {
     // 以下のワードリストからランダムでワード出ます。
     static String[] words = { "you", "typing", "are", "at", "everything", "random",
             "hope", "everything", "all", "best", "this",
-            "is", "the", "fun", "give", "your", "100%" };
+            "is", "the", "fun", "give", "your", "best" };
 
     public static void main(String[] args) throws InterruptedException {
         System.out.println("3");
